@@ -1,4 +1,4 @@
-<h1>Hi, my name is Henry, making the jump into <a href="https://www.linkedin.com/in/henryossinger/">IT</a></h1>
+<h1>IT projects I have been experimenting with! In depth writeups <a href="https://www.linkedin.com/in/henryossinger/">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
