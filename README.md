@@ -1,4 +1,4 @@
-<h1>IT projects I have been experimenting with! In depth writeups <a href="https://www.linkedin.com/in/henryossinger/">here.</a></h1>
+<h1>IT projects I have been experimenting with! In depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
