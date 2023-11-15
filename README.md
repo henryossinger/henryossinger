@@ -12,6 +12,6 @@
 
 <b>Current Work In Progress</b>
 
-  - [Automating Tasks in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
+  - [Automating User Tasks in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
 
 
