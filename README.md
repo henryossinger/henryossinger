@@ -1,9 +1,10 @@
 <h1>IT projects below, in depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<b>Home Labs</b>
+<b>Home Server</b>
 
   - [Build for Home Lab Server](https://github.com/henryossinger/Homelab-Server-Build)
+  - [Automating User Creation in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
     
 <b>Microsoft Azure</b>
 
@@ -12,6 +13,5 @@
 
 <b>Current Work In Progress</b>
 
-  - [Automating User Tasks in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
 
 
