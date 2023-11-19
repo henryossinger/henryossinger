@@ -1,4 +1,4 @@
-<h1>IT projects below, in depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
+<h1>IT projects below! In depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Home Server</b>
