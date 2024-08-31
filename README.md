@@ -1,9 +1,9 @@
 <h1>IT projects below! In depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<b>AZ-900 Labs</b>
+<b>Hybrid-Cloud Environment Buildout</b>
 
-- [Deploying a Web Server in Azure]()
+- [Connecting an on-premise DC to Entra]()
 
 <b>Microsoft Azure</b>
 
