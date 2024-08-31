@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Hybrid-Cloud Environment Buildout</b>
 
-- [Connecting an on-premise DC to Entra]()
+- [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
 
