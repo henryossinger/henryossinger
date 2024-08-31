@@ -1,9 +1,10 @@
-<h1>IT projects below! In depth writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
+<h1>IT projects below! Personal Writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Hybrid-Cloud Environment Buildout</b>
 
-- [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
+1. [Introdocution](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
+2. [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
 
