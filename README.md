@@ -5,6 +5,7 @@
 
 1. [Introduction](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 2. [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
+3. [Creating a Linux file share and P2S VPN](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
 
