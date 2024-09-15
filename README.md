@@ -3,9 +3,8 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 <b>Hybrid-Cloud Environment Buildout</b>
 
-1. [Introduction](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
-2. [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
-3. [Creating a Linux file share and S2S VPN](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
+1. [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
+2. [Creating a Linux file share and S2S VPN](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
 
