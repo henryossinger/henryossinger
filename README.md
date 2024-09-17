@@ -12,9 +12,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/henryossinger/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/henryossinger/Network-Protocols)
 
-<b>Home Server</b>
+<b>PowerShell</b>
 
-  - [Build for Home Lab Server](https://github.com/henryossinger/Homelab-Server-Build)
   - [Automating User Creation in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
     
 
