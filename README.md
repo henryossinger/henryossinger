@@ -8,7 +8,7 @@
 3. [Applying GPO's to users and devices](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
-  - [Creating a S2S VPN in Azure](https://github.com/henryossinger/Active-Directory)
+  - [Creating a S2S VPN in Azure](https://github.com/henryossinger/Creating-a-S2S-VPN-Connecting-On-Prem-to-to-Azure)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/henryossinger/Active-Directory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/henryossinger/Network-Protocols)
 
