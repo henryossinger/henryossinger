@@ -1,7 +1,7 @@
 <h1>IT projects below! Personal Writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-<b>Hybrid-Cloud Environment Buildout</b>
+<b>Home Lab Hybrid-Cloud Environment</b>
 
 1. [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 2. [Creating a Linux file share and P2S VPN](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
