@@ -1,6 +1,4 @@
-<h1>IT projects below! Personal Writeups <a href="https://medium.com/@henryossinger">here.</a></h1>
-
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h1>👨‍💻 Information Technology Projects:</h2>
 <b>Home Lab Hybrid-Cloud Projects</b>
 
 - [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
