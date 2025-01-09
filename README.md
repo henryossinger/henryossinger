@@ -1,5 +1,5 @@
 <h1>👨‍💻 Information Technology Projects:</h2>
-<b>Home Lab Hybrid-Cloud Projects</b>
+<b>Hybrid-Cloud Projects</b>
 
 - [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 - [Creating a Linux file share and P2S VPN](https://github.com/henryossinger/Creating-A-Linux-File-Share-and-P2S-VPN)
