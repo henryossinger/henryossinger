@@ -3,7 +3,6 @@
 
 - [Connecting an on-premise DC to Entra](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 - [Creating a Linux file share and P2S VPN](https://github.com/henryossinger/Creating-A-Linux-File-Share-and-P2S-VPN)
-- [Applying GPO's to users and devices](https://github.com/henryossinger/Connecting-On-premise-DC-to-Entra)
 
 <b>Microsoft Azure</b>
   - [Connecting On-Prem to Azure with a S2S VPN](https://github.com/henryossinger/Creating-a-S2S-VPN-Connecting-On-Prem-to-to-Azure)
@@ -13,6 +12,7 @@
 <b>PowerShell</b>
 
   - [Automating User Creation in Active Directory](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
+  - [Script to replicate AD Groups from old computer to new computer](https://github.com/henryossinger/Automating-Tasks-In-Active-Directory/)
     
 
 
